@@ -1,0 +1,8 @@
+flask
+opencv-python
+ultralytics
+waitress
+# [NEW] Alert system dependencies
+python-dotenv
+requests
+Pillow
