@@ -53,7 +53,6 @@ Place your `best.pt` model in the `models/` folder.
    ```plaintext
    IP_CAMERA_URL=your_camera_url
    ```
-
 ---
 
 ## 🖥️ Usage  
